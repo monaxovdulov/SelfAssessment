@@ -1,18 +1,18 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model ~
-  - Modeling h
+  - Model: 👂 heard
+  - Modeling: 👂 heard
   - Subject domain
-  - Algorithm h
-  - Syntax k
+  - Algorithm: 👂 heard
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm k
-  - Programming paradigm k
-  - Programming language k
-  - Contract h
+  - Programm: 🎓 known
+  - Programming paradigm: 🎓 known
+  - Programming language: 🎓 known
+  - Contract: 👂 heard
   - Module
   - Library
   - Package
